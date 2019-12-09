@@ -1,2 +1,2 @@
-*:christmas_tree:
-:palm_tree:
+* :christmas_tree:
+* :palm_tree:
