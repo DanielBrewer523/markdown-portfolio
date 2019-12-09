@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Aqua](https://octodex.github.com/images/Aqua screaming.jpg)
