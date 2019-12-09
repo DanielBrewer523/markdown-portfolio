@@ -1,4 +1,2 @@
-<ul>
-  :cherry:
-  :palm_tree:
- </ul>
+*:christmas_tree:
+:palm_tree:
